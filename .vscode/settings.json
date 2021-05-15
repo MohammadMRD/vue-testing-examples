@@ -1,0 +1,11 @@
+{
+  "eslint.validate": ["vue", "javascript", "javascriptreact"],
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true,
+    "source.organizeImports": false,
+  },
+  "editor.formatOnSave": false,
+  "vetur.validation.template": true,
+  "files.eol": "\n",
+  "editor.tabSize": 2
+}
